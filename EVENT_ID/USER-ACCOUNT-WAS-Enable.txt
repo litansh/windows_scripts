@@ -1,0 +1,26 @@
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2019-04-24T13:43:33.448
+  Event ID: 4722
+  Task: User Account Management
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: DC01.tradenet.local
+  Description: 
+A user account was enabled.
+
+Subject:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-12577
+	Account Name:		Litan.Shamir
+	Account Domain:		TRADENET
+	Logon ID:		0x15E66ED62
+
+Target Account:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-15169
+	Account Name:		Jason.Kennedy
+	Account Domain:		TRADENET
+

@@ -1,0 +1,37 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"ReportBootOk"="1"
+"Shell"="explorer.exe"
+"PreCreateKnownFolders"="{A520A1A4-1780-4FF6-BD18-167343C5AF16}"
+"Userinit"="C:\\Windows\\system32\\userinit.exe,"
+"VMApplet"="SystemPropertiesPerformance.exe /pagefile"
+"AutoRestartShell"=dword:00000001
+"Background"="0 0 0"
+"CachedLogonsCount"="10"
+"DebugServerCommand"="no"
+"ForceUnlockLogon"=dword:00000000
+"LegalNoticeCaption"=""
+"LegalNoticeText"=""
+"PasswordExpiryWarning"=dword:00000005
+"PowerdownAfterShutdown"="0"
+"ShutdownWithoutLogon"="0"
+"WinStationsDisabled"="0"
+"DisableCAD"=dword:00000001
+"scremoveoption"="0"
+"ShutdownFlags"=dword:00000027
+"AutoAdminLogon"="1"
+"DefaultUserName"="DETV1"
+"DefaultDomainName"="tradenet.local"
+"DisableBackButton"=dword:00000001
+"EnableSIHostIntegration"=dword:00000001
+"ShellCritical"=dword:00000000
+"ShellInfrastructure"="sihost.exe"
+"SiHostCritical"=dword:00000000
+"EnableFirstLogonAnimation"=dword:00000001
+"AutoLogonSID"="S-1-5-21-4146254016-2951797602-853658646-14734"
+"LastUsedUsername"="DETV1"
+"IsConnectedAutoLogon"=dword:00000000
+"DisableLockWorkstation"=dword:00000000
+"DefaultPassword"="ELwEq3hr"
+
+

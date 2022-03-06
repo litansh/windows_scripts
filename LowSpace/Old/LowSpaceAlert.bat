@@ -1,0 +1,1 @@
+wscript	"C:\ProgramData\IT-Scripts\\LowSapce\LowSpace-EmailAlert.vbs"

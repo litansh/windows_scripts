@@ -1,0 +1,1 @@
+robocopy "C:\RDP manager\BCKP" "C:\Users\litan.shamir\Google Drive\BCKP" /ZB /E /NP /XO

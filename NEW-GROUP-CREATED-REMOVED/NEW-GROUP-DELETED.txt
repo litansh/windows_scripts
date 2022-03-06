@@ -1,0 +1,58 @@
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2016-11-11T19:57:33.628
+  Event ID: 4726
+  Task: User Account Management
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: DC01.tradenet.local
+  Description: 
+A user account was deleted.
+
+Subject:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-500
+	Account Name:		thor
+	Account Domain:		TRADENET
+	Logon ID:		0x862910
+
+Target Account:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-12191
+	Account Name:		oqwawksdpsakp
+	Account Domain:		TRADENET
+
+Additional Information:
+	Privileges	-
+
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2016-11-11T19:57:33.628
+  Event ID: 4726
+  Task: User Account Management
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: DC01.tradenet.local
+  Description: 
+A user account was deleted.
+
+Subject:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-500
+	Account Name:		thor
+	Account Domain:		TRADENET
+	Logon ID:		0x862910
+
+Target Account:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-12191
+	Account Name:		oqwawksdpsakp
+	Account Domain:		TRADENET
+
+Additional Information:
+	Privileges	-
+

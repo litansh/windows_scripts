@@ -1,0 +1,33 @@
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2019-04-29T12:19:08.015
+  Event ID: 4752
+  Task: Distribution Group Management
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: DC01.tradenet.local
+  Description: 
+A member was removed from a security-disabled global group.
+
+Subject:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-7465
+	Account Name:		jack
+	Account Domain:		TRADENET
+	Logon ID:		0x441871
+
+Member:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-15132
+	Account Name:		CN=Kyriaki Christodoulou,OU=CEO Folder,OU=Team,OU=BackOffice,OU=Users,OU=Cyprus,OU=Colmex Pro & Tradenet,OU=Office,DC=tradenet,DC=local
+
+Group:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-6774
+	Group Name:		BackOffice ColmexPro
+	Group Domain:		TRADENET
+
+Additional Information:
+	Privileges:		-
+

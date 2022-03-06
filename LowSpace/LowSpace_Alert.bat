@@ -1,0 +1,1 @@
+wscript	"C:\ProgramData\IT-Scripts\LowSpace\LowSpace_Email-Notification.vbs"

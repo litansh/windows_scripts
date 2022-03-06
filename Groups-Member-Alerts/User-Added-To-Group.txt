@@ -1,0 +1,66 @@
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2019-04-24T13:43:33.510
+  Event ID: 4728
+  Task: Security Group Management
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: DC01.tradenet.local
+  Description: 
+A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-12577
+	Account Name:		Litan.Shamir
+	Account Domain:		TRADENET
+	Logon ID:		0x15E66ED62
+
+Member:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-15169
+	Account Name:		cn=Jason Kennedy,OU=SalesINT,OU=Users,OU=Israel,OU=Colmex Pro & Tradenet,OU=Office,DC=tradenet,DC=local
+
+Group:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-7415
+	Group Name:		Sales Conversion - Local
+	Group Domain:		TRADENET
+
+Additional Information:
+	Privileges:		-
+
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2019-04-29T11:39:54.981
+  Event ID: 4751
+  Task: Distribution Group Management
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: DC01.tradenet.local
+  Description: 
+A member was added to a security-disabled global group.
+
+Subject:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-7465
+	Account Name:		jack
+	Account Domain:		TRADENET
+	Logon ID:		0x441871
+
+Member:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-12425
+	Account Name:		CN=Nir Zion,OU=Project Manager,OU=Dev,OU=IT,OU=Users,OU=CGLMS,OU=Office,DC=tradenet,DC=local
+
+Group:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-15170
+	Group Name:		R&D
+	Group Domain:		TRADENET
+
+Additional Information:
+	Privileges:		-
+

@@ -1,0 +1,28 @@
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2018-01-16T17:17:33.380
+  Event ID: 4740
+  Task: User Account Management
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: DC01.tradenet.local
+  Description: 
+A user account was locked out.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DC01$
+	Account Domain:		TRADENET
+	Logon ID:		0x3E7
+
+Account That Was Locked Out:
+	Security ID:		S-1-5-21-4146254016-2951797602-853658646-7477
+	Account Name:		Paz.Mizrahi
+
+Additional Information:
+	Caller Computer Name:	DEPC0001
+

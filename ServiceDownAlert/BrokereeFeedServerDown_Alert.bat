@@ -1,0 +1,1 @@
+wscript	"C:\ProgramData\IT-Scripts\LowSpace\BrokereeFeedServerDown_Email-Notification.vbs"
